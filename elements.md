@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call
+image: assets/images/duck.jpg
 nav-menu: true
 ---
 
