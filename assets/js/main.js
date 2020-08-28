@@ -132,7 +132,7 @@
 		// Scrolly.
 			$('.scrolly').scrolly({
 				offset: function() {
-					return $header.height() - 8;
+					return $header.height() - 2;
 				}
 			});
 
