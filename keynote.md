@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Keynote speaker
 description: Dan Lockton
 image: assets/images/pic03.jpg
