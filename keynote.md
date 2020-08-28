@@ -2,7 +2,7 @@
 layout: post
 title: Keynote speaker
 description: Dan Lockton
-image: assets/images/pic03.jpg
+image: assets/images/danlockton.jpg
 nav-menu: true
 ---
 
