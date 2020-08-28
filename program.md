@@ -2,7 +2,7 @@
 title: Program
 layout: landing
 description: 'Coming soon'
-image: assets/images/pic07.jpg
+image: assets/images/banner2.jpg
 nav-menu: true
 ---
 
