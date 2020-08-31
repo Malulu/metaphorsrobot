@@ -22,12 +22,12 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
-		<p>Authors are invited to submit a 2-page position papers, portfolios, films, artworks, pictorials or other short creative pieces that describe work and interest in cultivating new metaphors for interacting with social robots. Additionally, we ask the submission to be accompanied by a short Bio and a CV of the authors. Submissions should be emailed to robotmetaphors@gmail.com. </p>
+		<p>Authors are invited to submit a 2-page position papers, portfolios, films, artworks, pictorials or other short creative pieces that describe work and interest in cultivating new metaphors for interacting with social robots. Additionally, we ask the submission to be accompanied by a short Bio and the CV of the authors. Submissions should be emailed to robotmetaphors@gmail.com. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics</h3>
 		<p>Coming soon</p>
 		<h3> Deadlines</h3>
-		<p>Submission deadline: 16 October 2020</p>
-		<p>Notification of acceptance: 6 November 2020</p>
+		<br>Submission deadline: 16 October 2020</br>
+		<br>Notification of acceptance: 6 November 2020</br>
 		<p>Workshop date: 14 November 2020 (half-day workshop)</p>
