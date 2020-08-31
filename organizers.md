@@ -5,13 +5,21 @@ image: assets/images/banner3.jpg
 nav-menu: true
 ---
 
-Patrícia Alves-Oliveira, University of Washinton, USA
+<!-- Main -->
+<div id="main" class="alt">
 
-Maria Luce Lupetti, TU Delft, The Netherlands
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Call for Contributions</h1>
+		</header>
 
-Michal Luria, CMU, USA
-
-Diana L&oumlffler, Siegen University, Germany
+<!-- Content -->
+		<p>Patrícia Alves-Oliveira, University of Washinton, USA<br>
+       Maria Luce Lupetti, TU Delft, The Netherlands<br>
+      Michal Luria, CMU, USA<br>
+      Diana L&#246lffler, Siegen University, Germany</p>
 
 
 
