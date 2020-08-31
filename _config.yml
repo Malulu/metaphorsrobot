@@ -1,8 +1,8 @@
 # site settings
 title: Metaphors for HRI
 subtitle: Workshop @ ICSR 2020
-email: place@holder.com
-description: International Workshop held in conjunction with the 12th International Conference on Social Robotics (ICSR 2020). November 14, 2020. ONLINE
+email: robotmetaphors@gmail.com
+description: International Workshop held in conjunction with the <a href="https://sites.psu.edu/icsr2020/">12th International Conference on Social Robotics (ICSR 2020)</a>. November 14, 2020. ONLINE
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 
