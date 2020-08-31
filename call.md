@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call
+description: Call for Proposals
 nav-menu: true
 ---
 
@@ -33,6 +34,8 @@ nav-menu: true
 		Imagination<br>
 		Reseach om Futurizing<br>
 		Relationships</p>
+	</div>
+	<div class="6u 12u$(small)">
 		<h3> Deadlines</h3>
 		<p><b>Submission deadline:</b> 16 October 2020<br>
 		<b>Notification of acceptance:</b> 6 November 2020<br>
