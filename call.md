@@ -29,8 +29,6 @@ nav-menu: true
 		<br>
 		<br>
 		</p>
-		
-		
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
