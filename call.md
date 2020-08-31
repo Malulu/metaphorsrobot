@@ -25,7 +25,12 @@ nav-menu: true
 		<h3> Deadlines</h3>
 		<p><b>Submission deadline:</b> 16 October 2020<br>
 		<b>Notification of acceptance:</b> 6 November 2020<br>
-		<b>Workshop date:</b> 14 November 2020 (half-day workshop)</p>
+		<b>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
+		<br>
+		<br>
+		</p>
+		
+		
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
