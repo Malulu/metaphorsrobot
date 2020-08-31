@@ -11,7 +11,7 @@ Maria Luce Lupetti, TU Delft, The Netherlands
 
 Michal Luria, CMU, USA
 
-Diana Loffler, Siegen University, Germany
+Diana L&oumlffler, Siegen University, Germany
 
 
 
