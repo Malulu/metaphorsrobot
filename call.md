@@ -30,6 +30,6 @@ nav-menu: true
 		<p>Coming soon</p>
 		<p>Coming soon</p>
 		<h3> Deadlines</h3>
-		<br><b>Submission deadline: 16 October 2020</b></br>
-		<br>Notification of acceptance: 6 November 2020</br>
-		<br>Workshop date: 14 November 2020 (half-day workshop)</br>
+		<p><b>Submission deadline: 16 October 2020</b><br>
+		Notification of acceptance: 6 November 2020<br>
+		Workshop date: 14 November 2020 (half-day workshop)</p>
