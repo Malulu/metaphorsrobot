@@ -30,13 +30,13 @@ nav-menu: true
 		<br></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Topics</h3>
+		<h3>Topics (not limited to)</h3>
 		<p>Human-Robot Interaction<br>
 		Design Research<br>
-		Aesthetic studies<br>
-		Metaphors studies<br>
-		Reseach om Futurizing<br>
-		Relationships</p>
+		Aesthetic and landscape studies<br>
+		Metaphors research, including dystrophic and utopic futurizing <br>
+		Surreal design studies<br>
+		Experimentation across disciplines such as music, pshycilogy, design, architecture, and other visual arts</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
