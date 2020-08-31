@@ -27,9 +27,11 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Topics</h3>
 		<p>Human-Robot Interaction<br>
-		Metapahors<br>
+		Design Research<br>
+		Aesthetic studies<br>
+		Metaphors<br>
 		Imagination<br>
-		Futurizing<br>
+		Reseach om Futurizing<br>
 		Relationships</p>
 		<h3> Deadlines</h3>
 		<p><b>Submission deadline:</b> 16 October 2020<br>
