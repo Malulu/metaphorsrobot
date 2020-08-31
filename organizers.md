@@ -1,7 +1,7 @@
 ---
 title: Organizers
 layout: landing
-description: 'Coming soon'
+description: 'Patricia, Luce, Michal, Diana'
 image: assets/images/banner3.jpg
 nav-menu: true
 ---
