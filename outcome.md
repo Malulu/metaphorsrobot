@@ -2,7 +2,7 @@
 title: Collection of Metaphors for Human-Robot Interaction
 layout: landing
 description: 'Metaphors for new relationships'
-image: assets/images/banner2.jpg
+image: assets/images/banner4.jpg
 nav-menu: true
 ---
 
