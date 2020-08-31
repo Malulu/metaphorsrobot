@@ -1,23 +1,14 @@
 ---
 title: Organizers
 layout: landing
-description: 'Patricia, Luce, Michal, Diana'
 image: assets/images/banner3.jpg
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
+Patrícia Alves-Oliveira, University of Washinton, USA
+Maria Luce Lupetti, TU Delft, The Netherlands
+Michal Luria, CMU, USA
+Diana Loffler, Siegen University, Germany
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<p> Patrícia Alves-Oliveira, University of Washinton, USA<br>
-			Maria Luce Lupetti, TU Delft, The Netherlands<br>
-			Michal Luria, CMU, USA<br>
-			Diana Loffler, Siegen University, Germany<7p>
-	</div>
-</section>
 
 
