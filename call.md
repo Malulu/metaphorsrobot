@@ -32,7 +32,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
-		<p>Authors are invited to submit a 2-page position papers, portfolios, films, artworks, pictorials or other short creative pieces that describe work and interest in cultivating new metaphors for interacting with social robots. Additionally, we ask the submission to be accompanied by a short Bio and the CV of the authors. Submissions should be emailed to robotmetaphors@gmail.com. </p>
+		<p>Authors are invited to submit a 2-page position paper (lateX or word temapltes will be provided soon) that describes a new metaphor for interacting with social robots. Submissions are encouraged to include visuals (such as porfolios, sketches, short films, artworks, pictorials or other short creative pieces) that were created by the authors. Submissions materials should be emailed to robotmetaphors@gmail.com and should be accompained by a short Bio and the CV of the authors. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
