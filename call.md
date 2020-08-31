@@ -27,7 +27,9 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Topics</h3>
 		<p>Coming soon</p>
+		<p>Coming soon</p>
+		<p>Coming soon</p>
 		<h3> Deadlines</h3>
 		<br>Submission deadline: 16 October 2020</br>
 		<br>Notification of acceptance: 6 November 2020</br>
-		<p>Workshop date: 14 November 2020 (half-day workshop)</p>
+		<br>Workshop date: 14 November 2020 (half-day workshop)</br>
