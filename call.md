@@ -27,7 +27,6 @@ nav-menu: true
 		<b>Notification of acceptance:</b> 30 October 2020<br>
 		<b> Camera-ready version:</b> 6 November 2020<br>
 		<b>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
-		<br>
 		<br></p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -35,8 +34,7 @@ nav-menu: true
 		<p>Human-Robot Interaction<br>
 		Design Research<br>
 		Aesthetic studies<br>
-		Metaphors<br>
-		Imagination<br>
+		Metaphors studies<br>
 		Reseach om Futurizing<br>
 		Relationships</p>
 	</div>
