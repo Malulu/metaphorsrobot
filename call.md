@@ -28,7 +28,7 @@ nav-menu: true
 		<b> Camera-ready version:</b> 6 November 2020<br>
 		<b>Workshop date:</b> 14 November 2020 (half-day workshop)<br></p>
 		<br>
-		</p>
+		<br></p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
