@@ -11,15 +11,12 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Call for Contributions</h1>
-		</header>
 
 <!-- Content -->
-		<p>Patrícia Alves-Oliveira, University of Washinton, USA<br>
+		<p><a href="https://patricialvesoliveira.com">Patrícia Alves-Oliveira</a>, University of Washinton, USA<br>
        Maria Luce Lupetti, TU Delft, The Netherlands<br>
       Michal Luria, CMU, USA<br>
-      Diana L&#246lffler, Siegen University, Germany</p>
+      Diana L&ölffler, Siegen University, Germany</p>
 
 
 
