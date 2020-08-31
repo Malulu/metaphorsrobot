@@ -29,6 +29,10 @@ nav-menu: true
 		<b>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
 		<br></p>
 	</div>
+	<div class="6u 12u$(small)">
+		<h3>Contributions</h3>
+		<p>Authors are invited to submit a 2-page position papers, portfolios, films, artworks, pictorials or other short creative pieces that describe work and interest in cultivating new metaphors for interacting with social robots. Additionally, we ask the submission to be accompanied by a short Bio and the CV of the authors. Submissions should be emailed to robotmetaphors@gmail.com. </p>
+	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
 		<p>Human-Robot Interaction<br>
@@ -36,10 +40,7 @@ nav-menu: true
 		Aesthetic and landscape studies<br>
 		Metaphors research, including dystrophic and utopic futurizing <br>
 		Surreal design studies<br>
-		Experimentation across disciplines such as music, pshycilogy, design, architecture, and other visual arts</p>
-	</div>
-	<div class="6u 12u$(small)">
-		<h3>Contributions</h3>
-		<p>Authors are invited to submit a 2-page position papers, portfolios, films, artworks, pictorials or other short creative pieces that describe work and interest in cultivating new metaphors for interacting with social robots. Additionally, we ask the submission to be accompanied by a short Bio and the CV of the authors. Submissions should be emailed to robotmetaphors@gmail.com. </p>
+		Experimentation across disciplines such as music, pshycology, design, architecture, illustration, and additional audio-visual arts</p>
+
 	
 	
