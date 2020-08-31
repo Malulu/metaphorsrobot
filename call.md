@@ -17,11 +17,16 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
+		<h3>Audience</h3>
+		<p>The workshop encourages designers, artists, writers, film-makers, architects, philosophers, psychologists, computer scientists and engineers, to speculate on alternative metaphors for \ac{HRI}. It lays the foundation for a more nuanced perspective on how to design interactions with robots beyond the current, singular notion of anthropomorphism for embodied interaction.</p>
+	<div class="6u 12u$(small)">
 		<h3>Types of contributions</h3>
 		<p>Coming soon</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics</h3>
 		<p>Coming soon</p>
+	</div>
+	<div class="6u$ 12u$(small)">
 		<h3> Deadlines</h3>
 		<p>Coming soon</p>
