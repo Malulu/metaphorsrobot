@@ -13,10 +13,10 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-		<p><a href="https://patricialvesoliveira.com">Patrícia Alves-Oliveira</a>, University of Washinton, USA<br>
-       Maria Luce Lupetti, TU Delft, The Netherlands<br>
-      Michal Luria, CMU, USA<br>
-      Diana L&ölffler, Siegen University, Germany</p>
+	<p><a href="https://patricialvesoliveira.com">Patrícia Alves-Oliveira</a>, University of Washinton, USA<br>
+	<a href="https://marialucelupetti.com">Maria Luce Lupetti</a>, TU Delft, The Netherlands<br>
+	<a href="https://www.michalluria.com"> Michal Luria</a>, CMU, USA<br>
+	<a href="https://scholar.google.com/citations?user=DHbTr74AAAAJ&hl=de">Diana Lölffler</a>, Siegen University, Germany</p>
 
 
 
