@@ -1,5 +1,5 @@
 ---
-title: ollection of Metaphors for Human-Robot Interaction
+title: Collection of Metaphors for Human-Robot Interaction
 layout: landing
 description: 'Metaphors for new relationships'
 image: assets/images/banner2.jpg
