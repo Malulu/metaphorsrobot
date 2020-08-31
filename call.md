@@ -27,7 +27,6 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Topics</h3>
 		<p>Coming soon</p>
-	</div>
 	<div class="6u$ 12u$(small)">
 		<h3> Deadlines</h3>
 		<p>Coming soon</p>
