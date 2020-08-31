@@ -19,7 +19,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Audience</h3>
-		<p>The workshop encourages designers, artists, writers, film-makers, architects, philosophers, psychologists, computer scientists and engineers, to speculate on alternative metaphors for human-robot interaction. It lays the foundation for a more nuanced perspective on how to design interactions with robots beyond the current, singular notion of anthropomorphism for embodied interaction.</p>
+		<p>This workshop encourages designers, artists, writers, film-makers, architects, philosophers, psychologists, computer scientists and engineers, to speculate on alternative metaphors for human-robot interactions. We aim to create a space for discussing different perspectives on how to design social robots that goes beyond the current, singular notion of social robots.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3> Deadlines</h3>
