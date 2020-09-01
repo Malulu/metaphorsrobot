@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call
+image: assets/images/bosh.jpg
 description: Call for Proposals
 nav-menu: true
 ---
