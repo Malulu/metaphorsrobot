@@ -1,5 +1,5 @@
 ---
 layout: post
-image: assets/images/danlockton.jpg
+image: assets/images/bosh.jpg
 nav-menu: true
 ---
