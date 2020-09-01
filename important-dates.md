@@ -1,6 +1,7 @@
 ---
 title: Important Dates
-layout: post
+layout: landing
+image: assets/images/robot.jpg
 nav-menu: true
 ---
 <!-- Main -->
