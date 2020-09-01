@@ -23,12 +23,11 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3> Deadlines</h3>
-		<ol type = "1">
-		<p><b><li>Submission deadline:</b> 16 October 2020<br><\li>
-		<b><li>Notification of acceptance:</b> 30 October 2020<br><\li>
-		<b><li>Camera-ready version:</b> 6 November 2020<br><\li>
-		<b><li>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
-		 </ol><br>
+		<p><b>- Submission deadline:</b> 16 October 2020<br>
+		<b>- Notification of acceptance:</b> 30 October 2020<br>
+		<b>- Camera-ready version:</b> 6 November 2020<br>
+		<b>- Workshop date:</b> 14 November 2020 (half-day workshop)<br>
+		<br>
 		<br></p>
 	</div>
 	<div class="6u 12u$(small)">
@@ -37,12 +36,12 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
-		<p>Human-Robot Interaction<br>
-		Design Research<br>
-		Aesthetic and landscape studies<br>
-		Metaphors research, including dystrophic and utopic futurizing <br>
-		Surreal design studies<br>
-		Experimentation across disciplines such as music, pshycology, design, architecture, illustration, and additional audio-visual arts</p>
+		<p>Human-Robot Interaction and Robotics;<br>
+		- Design Research;<br>
+		- Aesthetic and landscape studies;<br>
+		- Metaphors research, including dystrophic and utopic futurizing;<br>
+		- Surreal design studies;<br>
+		- Experimentation across disciplines such as music, pshycology, design, architecture, illustration, and additional audio-visual arts</p>
 
 	
 	
