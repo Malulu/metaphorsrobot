@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Consider these dates to apply:</h2>
 		</header>
-	<li><p><b>Submission deadline:</b> 16 October 2020<br>
+	<li><p><b>Submission deadline:</b> 16 October 2020
 	<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
 	<li><b>Camera-ready version:</b> 6 November 2020<br></li>
 	<li><b> Workshop date:</b> 14 Number 2020</li></p>
