@@ -19,7 +19,8 @@ nav-menu: true
 	<li><a href="https://marialucelupetti.com">Maria Luce Lupetti</a>. TU Delft, The Netherlands.<br></li>
 	<li><a href="https://www.michalluria.com"> Michal Luria</a>. CMU, USA.<br></li>
 	<li><a href="https://scholar.google.com/citations?user=DHbTr74AAAAJ&hl=de">Diana Löffler</a>. Siegen University, Germany.</li>
-	
+		<p><br>
+		<br></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Talk with us: robotmetaphors@gmail.com</h3>
