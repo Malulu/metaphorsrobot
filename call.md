@@ -27,7 +27,7 @@ nav-menu: true
 		<b>Notification of acceptance:</b> 30 October 2020<br>
 		<b>Camera-ready version:</b> 6 November 2020<br>
 		<b>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
-		This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a>, which will happen in a virtual format with accesible registration costs (more information soon). <br>
+		This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs. <br>
 		<br></p>
 	</div>
 	<div class="6u 12u$(small)">
