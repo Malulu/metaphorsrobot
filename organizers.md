@@ -23,5 +23,5 @@ nav-menu: true
 		<br></p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>For inquiries, robotmetaphors@gmail.com</h3>
+		<h3>For inquiries, robotmetaphors at gmail dot com</h3>
 	</div>
