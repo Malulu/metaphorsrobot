@@ -7,8 +7,6 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- Content -->
-	</div>
-	<div class="6u 12u$(small)">
 		<p><b>Submission deadline:</b> 16 October 2020<br>
 		<b>Notification of acceptance:</b> 30 October 2020<br>
 		<b>Camera-ready version:</b> 6 November 2020<br>
