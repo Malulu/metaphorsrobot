@@ -1,7 +1,7 @@
 ---
 title: Collection of Metaphors
 layout: landing
-description: 'Collection of Metaphors for Human-Robot Interactions'
+description: 'Coming Soon'
 nav-menu: true
 ---
 
