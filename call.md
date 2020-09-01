@@ -36,12 +36,12 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
-		<p>Human-robot interaction and robotics;<br>
-		Design research;<br>
-		Aesthetic and landscape studies;<br>
-		Metaphors research, including dystrophic and utopic futurizing;<br>
-		Surreal design studies;<br>
-		Experimentation across disciplines such as music and sound, psychology, design, architecture, illustration, and additional audio-isual arts</p>
+		<p>Human-robot interaction and robotics<br>
+		Design research<br>
+		Aesthetic and landscape studies<br>
+		Metaphors research, including dystrophic and utopic futurizing<br>
+		Surreal design studies<br>
+		Experimentation across disciplines such as music and sound, psychology, design, architecture, illustration, and additional audio-visual arts</p>
 
 	
 	
