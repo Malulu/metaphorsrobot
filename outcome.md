@@ -1,5 +1,5 @@
 ---
-title: Collection of Metaphors for Human-Robot Interactions
+title: Collection of Metaphors for HRI
 layout: landing
 description: 'Coming soon'
 nav-menu: true
