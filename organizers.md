@@ -24,4 +24,3 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Talk with us: robotmetaphors@gmail.com</h3>
 	</div>
-</section>
