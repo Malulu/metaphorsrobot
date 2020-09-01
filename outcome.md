@@ -1,5 +1,5 @@
 ---
-title: Collection of Metaphors for HRI
+title: Collection of Metaphors
 layout: landing
 description: 'Coming soon'
 nav-menu: true
