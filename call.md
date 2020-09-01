@@ -28,7 +28,7 @@ nav-menu: true
 		<b><li>Notification of acceptance:</b> 30 October 2020<br><\li>
 		<b><li>Camera-ready version:</b> 6 November 2020<br><\li>
 		<b><li>Workshop date:</b> 14 November 2020 (half-day workshop)<br>
-		<br>
+		 </ol><br>
 		<br></p>
 	</div>
 	<div class="6u 12u$(small)">
