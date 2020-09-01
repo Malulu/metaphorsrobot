@@ -1,5 +1,6 @@
 ---
+title: Important Dates
 layout: post
-image: assets/images/bosh.jpg
+image: assets/images/robot.jpg
 nav-menu: true
 ---
