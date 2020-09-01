@@ -20,6 +20,6 @@ nav-menu: true
 	<li><a href="https://www.michalluria.com"> Michal Luria</a>. CMU, USA<br></li>
 	<li><a href="https://scholar.google.com/citations?user=DHbTr74AAAAJ&hl=de">Diana Lölffler</a>. Siegen University, Germany
 	
-Contact us with any additional information to robotmetaphors@gmail.com.</p>
+<p>Talk with us: robotmetaphors@gmail.com.</p>
 	</div>
 </section>
