@@ -33,7 +33,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
-		<p>Authors are invited to submit a 2-page position paper (latex or word templates will be provided) that describes a new metaphor for interacting with social robots. We welcome out of the box ideas that do not necessarily portray robots as utilitarian tools. Submissions are encouraged to include visuals (such as porfolios, sketches, short films, artworks, pictorials or other short creative pieces) that were created by the authors. Submissions materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
+		<p>Authors are invited to submit a 2-page position paper using <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">latex</a> or <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">word</a> templates that describes a new metaphor for interacting with social robots. We welcome out of the box ideas that do not necessarily portray robots as utilitarian tools. Submissions are encouraged to include visuals (such as porfolios, sketches, short films, artworks, pictorials or other short creative pieces) that were created by the authors. Submissions materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
@@ -41,7 +41,7 @@ nav-menu: true
 		Design research<br>
 		Aesthetic and landscape studies<br>
 		Metaphors research, including dystrophic and utopic futurizing<br>
-		Surreal design studies<br>
+		Speculative, critical, and surreal design studies<br>
 		Experimentation across disciplines such as music and sound, psychology, design, architecture, illustration, and additional audio-visual arts</p>
 
 	
