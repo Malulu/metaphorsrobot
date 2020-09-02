@@ -33,16 +33,16 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
-		<p>Authors are invited to submit a description a <i>new approach to Human-Robot Interaction through a Metaphor</i>. Authors can choose one of the two submision formats: (1) 2-page position paper using <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">latex</a> or <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">word</a> templates; (2) visual work, including films, drawings/sketches, poems, stories, pictorials, prototypes, hand-made models, or other short creative piece that was created by the authors. We welcome out of the box ideas. Submission materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
+		<p>Authors are invited to submit a description a <i>new approach to Human-Robot Interaction through a Metaphor</i>. Authors can choose one of the two submision formats: (1) 2-page position paper using <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">latex</a> or <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">word</a> templates; (2) visual work, including films, drawings/sketches, poems, stories, pictorials, prototypes, hand-made models, or other creative pieces that were created by the authors. We welcome out of the box ideas. Submission materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
-		<p>Human-robot interaction and robotics<br>
-		Design research<br>
-		Aesthetic and landscape studies<br>
-		Metaphors research, including dystrophic and utopic futurizing<br>
-		Speculative, critical, and surreal design studies<br>
-		Experimentation across disciplines such as music and sound, psychology, design, architecture, illustration, and additional audio-visual arts</p>
+		<li><p>Human-robot interaction and robotics<br></li>
+		<li>Design research<br></li>
+		<li>Aesthetic and landscape studies<br></li>
+		<li>Metaphors research, including dystrophic and utopic futurizing<br></li>
+		<li>Speculative, critical, and surreal design studies<br></li>
+		<li>Experimentation across disciplines such as music and sound, psychology, design, architecture, illustration, and additional audio-visual arts</p>
 
 	
 	
