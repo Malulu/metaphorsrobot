@@ -30,7 +30,6 @@ nav-menu: true
 		<li><b>Workshop date:</b> 14 November 2020 (half-day workshop)<br></li>
 		<li>This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs.
 			</div>
-			<p></p><br>
 			<p></p>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
