@@ -29,9 +29,8 @@ nav-menu: true
 		<li><b>Camera-ready version:</b> 6 November 2020<br></li>
 		<li><b>Workshop date:</b> 14 November 2020 (half-day workshop)<br></li>
 		<li>This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs.
-			<p>
-			<p>
-			</p>
+			<p></p>
+			<p></p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
