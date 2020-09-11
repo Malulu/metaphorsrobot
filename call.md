@@ -33,7 +33,7 @@ nav-menu: true
 			<p></p>
 	<div class="6u 12u$(small)">
 		<h3>Contributions</h3>
-		<p>Authors are invited to submit a description a <i>new approach to Human-Robot Interaction through a Metaphor</i>. Authors can choose one of the two submision formats: (1) 2-page position paper using <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">latex</a> or <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">word</a> templates; (2) pictorial work with a description of the Metaphor, including films, drawings/sketches, poems, stories, prototypes, hand-made models, or other creative pieces that were created by the authors. We welcome out of the box ideas. Submission materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
+		<p>Authors are invited to submit a description a <i>new approach to Human-Robot Interaction through a Metaphor</i>. Authors can choose one of the two submission formats: (1) 2-page position paper using <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">latex</a> or <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip">word</a> templates; (2) pictorial work with a description of the Metaphor, including films, drawings/sketches, poems, stories, prototypes, hand-made models, or other creative pieces that were created by the authors. We welcome out of the box ideas. Submission materials should be emailed to robotmetaphors@gmail.com and need to be accompained by a short bio and the cv of the authors. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Topics (not limited to)</h3>
