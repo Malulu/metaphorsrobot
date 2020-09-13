@@ -8,7 +8,7 @@ author: null
 show_tile: false
 ---
 
-<p align="justify">Robots can be a metaphor of <i>perfection</i>. Influenced by pop-culture, we assume they never get tired, are always ready to work, and do not make mistakes. However, when we look around us and observe what existing, real-world robots can actually do we are faced with a different reality as robots <i>do fail</i>, they are <i>not perfect</i>, and they eventually <i>make mistakes</i>.
+<p align="justify">Robots can be a metaphor for <i>perfection</i>. Influenced by pop-culture, we assume they never get tired, are always ready to work, and do not make mistakes. However, when we look around us and observe what existing, real-world robots can actually do we are faced with a different reality as robots <i>do fail</i>, they are <i>not perfect</i>, and they eventually <i>make mistakes</i>.
 
 <p align="justify">Until now, most approaches in Human-Robot Interaction (HRI) were centered around a single metaphor, striving towards a human-like, utilitarian, can-do-it-all robot. While this strategy has advantages, it also places unrealistic expectations for robots, which frequently result in disappointment when interacting with them. In this workshop, we call for exploring alternative designs for social robots to cultivate new perspectives on robots, outside the existing norms. Alternative metaphors have been previously successful in breaking through fixation and bringing novel design and products. Furthermore, metaphors can serve as a vessel to wider societal imaginaries of technology and progress. 
 
