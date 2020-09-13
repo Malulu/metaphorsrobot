@@ -20,7 +20,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Audience</h3>
-		<p align="justify">This workshop encourages designers, artists, writers, film-makers, architects, philosophers, psychologists, computer scientists and engineers, to speculate on alternative metaphors for human-robot interactions. We aim to create a space for discussing different perspectives on how to design social robots that goes beyond the current, singular notion of social robots.</p>
+		<p align="justify">This workshop encourages designers, artists, writers, film-makers, architects, philosophers, psychologists, computer scientists, and engineers, to speculate on alternative metaphors for human-robot interactions. We aim to create a space for discussing different perspectives on how to design social robots that goes beyond the current, singular notion of social robots.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3> Deadlines and Registration</h3>
@@ -28,7 +28,7 @@ nav-menu: true
 		<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
 		<li><b>Camera-ready version:</b> 6 November 2020<br></li>
 		<li><b>Workshop date:</b> 14 November 2020 (half-day workshop)<br></li>
-		<li><b>Registration:</b> This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a></li> 
+		<li><b>Registration:</b> This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>.</li> 
 			</div>
 			<p></p>
 	<div class="6u 12u$(small)">
