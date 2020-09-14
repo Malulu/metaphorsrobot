@@ -28,7 +28,7 @@ nav-menu: true
 		<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
 		<li><b>Camera-ready version:</b> 6 November 2020<br></li>
 		<li><b>Workshop date:</b> 14 November 2020 (half-day workshop)<br></li>
-		<li><b>Registration:</b> This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format with accessible registration costs. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>.</li> 
+		<li><b>Registration cost:</b> $10 per participant. This workshop will be held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>.</li> 
 			</div>
 			<p></p>
 	<div class="6u 12u$(small)">
