@@ -18,7 +18,7 @@ nav-menu: true
 	<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
 	<li><b>Camera-ready version:</b> 6 November 2020<br></li>
 	<li><b> Workshop date:</b> 14 Number 2020</li>
-	<li><b>Registration cost: $10 per participant. Only accepted participants are eligible to attend the workshop. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>. This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format. </li> 
+	<li><b>Registration cost: $10 per participant. Only accepted participants are eligible to attend the workshop. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>. This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format.
 		
 <div class="row">
 	<div class="6u 12u$(small)">
