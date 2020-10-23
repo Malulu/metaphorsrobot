@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h2>16 November 2020. Times are in GMT. Use this  <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.</h2>
+		<h3>16 November 2020. Times are in GMT. Use this  <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.</h3>
 		<li><b>20:20 - 20:30</b>	Welcome and introductions<br></li>
 		<li><b>20:30 - 20:50</b>	Presentation of Metaphors<br></li>
 		<li><b>20:50 - 21:00</b>	Break<br></li>
@@ -37,9 +37,6 @@ nav-menu: true
 		</header>
 	<div class="6u 12u$(small)">
 		<h3> Deadlines and Registration</h3>
-		<li><b>Submission deadline:</b> 16 October 2020<br></li>
-		<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
-		<li><b>Workshop date:</b> 16 November (3h workshop)<br></li>
-		<li><b>Registration cost:</b> $10 per participant. Only accepted participants are eligible to attend the workshop. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>. This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format. </li> 
+Coming soon
 			</div>
 
