@@ -1,5 +1,5 @@
 ---
-title: Program and participants
+title: Program and Participants
 layout: landing
 image: assets/images/banner2.jpg
 nav-menu: true
