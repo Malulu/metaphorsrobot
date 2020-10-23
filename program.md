@@ -38,10 +38,10 @@ nav-menu: true
 		</header>
 	<div class="6u 12u$(small)">
 Coming soon
-		</b><br>
-		</b><br>
-		</b><br>
-		</b><br>
-		</b><br>
+		<b></b>
+		<b></b>
+		<b></b>
+		<b></b>
+		<b></b>
 			</div>
 
