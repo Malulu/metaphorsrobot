@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-	Workshop date: 16 November 2020<br>
+	<b>Workshop date: 16 November 2020<br></b>
 	Times are in GMT. Use this  <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.<br>
 		<li><b>20:20 - 20:30</b>	Welcome and introductions<br></li>
 		<li><b>20:30 - 20:50</b>	Presentation of Metaphors<br></li>
@@ -38,10 +38,9 @@ nav-menu: true
 		</header>
 	<div class="6u 12u$(small)">
 Coming soon
-		<b></b>
-		<b></b>
-		<b></b>
-		<b></b>
-		<b></b>
+		<br>
+		<br>
+		<br>
+		<br>
 			</div>
 
