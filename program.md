@@ -38,5 +38,11 @@ nav-menu: true
 		</header>
 	<div class="6u 12u$(small)">
 Coming soon
+			<li><b>20:20 - 20:30</b>	Welcome and introductions<br></li>
+		</b><br>
+		</b><br>
+		</b><br>
+		</b><br>
+		</b><br>
 			</div>
 
