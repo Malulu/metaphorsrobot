@@ -1,7 +1,6 @@
 ---
-title: Program
+title: Program and participants
 layout: landing
-description: 'and Participants'
 image: assets/images/banner2.jpg
 nav-menu: true
 ---
@@ -13,13 +12,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Program and Participants</h1>
+			<h1>Program</h1>
 		</header>
 
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>16 November 2020. Times are in GMT. Use this  <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.</h3>
+		<h2>16 November 2020. Times are in GMT. Use this  <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.</h2>
 		<li><b>20:20 - 20:30</b>	Welcome and introductions<br></li>
 		<li><b>20:30 - 20:50</b>	Presentation of Metaphors<br></li>
 		<li><b>20:50 - 21:00</b>	Break<br></li>
@@ -30,4 +29,17 @@ nav-menu: true
 		<li><b>22:35 - 23:15</b>	Hands-on activity 3<br></li>
 		<li><b>23:15 - 22:30</b>	Discussion and closure<br></li>
 	</div>
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Participants</h1>
+		</header>
+	<div class="6u 12u$(small)">
+		<h3> Deadlines and Registration</h3>
+		<li><b>Submission deadline:</b> 16 October 2020<br></li>
+		<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
+		<li><b>Workshop date:</b> 16 November (3h workshop)<br></li>
+		<li><b>Registration cost:</b> $10 per participant. Only accepted participants are eligible to attend the workshop. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>. This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format. </li> 
+			</div>
 
