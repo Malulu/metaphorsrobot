@@ -36,7 +36,6 @@ nav-menu: true
 			<h1>Participants</h1>
 		</header>
 	<div class="6u 12u$(small)">
-		<h3> Deadlines and Registration</h3>
 Coming soon
 			</div>
 
