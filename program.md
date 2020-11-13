@@ -29,6 +29,10 @@ nav-menu: true
 		<li><b>22:30 - 22:35</b>	Break<br></li>
 		<li><b>22:35 - 23:15</b>	Hands-on Activity 3<br></li>
 		<li><b>23:15 - 22:30</b>	Discussion and  Closure<br></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
 	</div>
 <!-- One -->
 <section id="one">
