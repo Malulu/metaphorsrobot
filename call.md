@@ -24,7 +24,7 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3> Deadlines and Registration</h3>
-		<li><b>Submission deadline:</b> 16 October 2020<br></li>
+		<li><b>Submission deadline:</b><s>16 October 2020</s><br></li>
 		<li><b>Notification of acceptance:</b> 30 October 2020<br></li>
 		<li><b>Workshop date:</b> 16 November (3h workshop)<br></li>
 		<li><b>Registration cost:</b> $10 per participant. Only accepted participants are eligible to attend the workshop. Register <a href="https://csmspace.com/events/icsr2020/registration.html">here</a>. This workshop is held in conjunction with <a href="https://sites.psu.edu/icsr2020/">ICSR 2020</a> in a virtual format. </li> 
