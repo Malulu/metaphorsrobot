@@ -40,15 +40,7 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-			<li>Anastasia Ostrowski</li>
-			<li>Ashby Solano</li>
-			<li>Björn Hein</li>
-			<li>Christoph Salge</li>
-			<li>Cynthia Breazeal</li>
-			<li>David Perry</li>
-			<li>David Puljiz</li>
-			<li>Diego Trujillo-Pisanty</li>
-			<li>Erin Partridge</li>
+			Anastasia Ostrowski, Ashby Solano, Björn Hein, Christoph Salge, Cynthia Breazeal, David Perry, David Puljiz, Diego Trujillo-Pisanty, Erin Partridge</li>
 			<li>Hae Won Park</li>
 			<li>Jesse Josua Benjamin</li>
 			<li>Jonas Oppenlaender</li>
