@@ -40,26 +40,6 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-	Anastasia Ostrowski, Ashby Solano, Björn Hein, Christoph Salge, Cynthia Breazeal, David Perry, David Puljiz, Diego Trujillo-Pisanty, Erin Partridge
-			<li>Hae Won Park</li>
-			<li>Jesse Josua Benjamin</li>
-			<li>Jonas Oppenlaender</li>
-			<li>Jörn Hurtienne</li>
-			<li>Lea Albaugh</li>
-			<li>Mafalda Samuelsson-Gamboa</li>
-			<li>Marcus M. Scheunemann</li>
-			<li>Mattias Arvola</li>
-			<li>Mazdak Shadkam</li>
-			<li>Michael Suguitan</li>
-			<li>Naomi Fitter</li>
-			<li>Oscar Bjurling</li>
-			<li>Paolo Parmiggiani</li>
-			<li>Paulina Yurman</li>
-			<li>Pedro Reynolds-Cuellar</li>
-			<li>Tom Ziemke</li>
-			<li>Sara Ljungblad</li>
-			<li>Selma Šabanović</li>
-			<li>Swapna Joshi</li>
-			<li>Waki Kamino</li>
+	Anastasia Ostrowski, Ashby Solano, Björn Hein, Christoph Salge, Cynthia Breazeal, David Perry, David Puljiz, Diego Trujillo-Pisanty, Erin Partridge, Hae Won Park, Jesse Josua Benjamin, Jonas Oppenlaender, Jörn Hurtienne, Lea Albaugh, Mafalda Samuelsson-Gamboa, Marcus M. Scheunemann, Mattias Arvola, Mazdak Shadkam, Michael Suguitan, Naomi Fitter, Oscar Bjurling, Paolo Parmiggiani, Paulina Yurman, Pedro Reynolds-Cuellar, Tom Ziemke, Sara Ljungblad, Selma Šabanović, Swapna Joshi, Waki Kamino
 </div>
 
