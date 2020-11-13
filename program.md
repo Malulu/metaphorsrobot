@@ -29,10 +29,6 @@ nav-menu: true
 		<li><b>22:30 - 22:35</b>	Break<br></li>
 		<li><b>22:35 - 23:15</b>	Hands-on Activity 3<br></li>
 		<li><b>23:15 - 22:30</b>	Discussion and  Closure<br></li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
 	</div>
 <!-- One -->
 <section id="one">
@@ -45,5 +41,10 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 	Anastasia Ostrowski, Ashby Solano, Björn Hein, Christoph Salge, Cynthia Breazeal, David Perry, David Puljiz, Diego Trujillo-Pisanty, Erin Partridge, Hae Won Park, Jesse Josua Benjamin, Jonas Oppenlaender, Jörn Hurtienne, Lea Albaugh, Mafalda Samuelsson-Gamboa, Marcus M. Scheunemann, Mattias Arvola, Mazdak Shadkam, Michael Suguitan, Naomi Fitter, Oscar Bjurling, Paolo Parmiggiani, Paulina Yurman, Pedro Reynolds-Cuellar, Tom Ziemke, Sara Ljungblad, Selma Šabanović, Swapna Joshi, Waki Kamino
+		<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
 </div>
 
