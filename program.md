@@ -21,15 +21,15 @@ nav-menu: true
 	<b>Workshop date: 16 November 2020. Times are in GMT.<br></b>
 	<b> Use this <a href="https://greenwichmeantime.com/time/to/gmt-local/">timezone converter</a> to know your local time.<br></b>
 		
-		<li><b>20:20 - 20:30</b>	Welcome and introductions<br></li>
-		<li><b>20:30 - 20:50</b>	Presentation of Metaphors<br></li>
+		<li><b>20:20 - 20:30</b>	Welcome and Introductions<br></li>
+		<li><b>20:30 - 20:50</b>	Presentation of Metaphors - Part I<br></li>
 		<li><b>20:50 - 21:00</b>	Break<br></li>
-		<li><b>21:00 - 21:20</b>	Presentation of Metaphors<br></li>
-		<li><b>21:20 - 22:00</b>	Dan Lockton Keynote & hands-on activity 1<br></li>
-		<li><b>22:00 - 22:30</b>	Hands-on activity 2<br></li>
+		<li><b>21:00 - 21:20</b>	Presentation of Metaphors - Part II<br></li>
+		<li><b>21:20 - 22:00</b>	Dan Lockton Keynote & Hands-on Activity 1<br></li>
+		<li><b>22:00 - 22:30</b>	Hands-on Activity 2<br></li>
 		<li><b>22:30 - 22:35</b>	Break<br></li>
-		<li><b>22:35 - 23:15</b>	Hands-on activity 3<br></li>
-		<li><b>23:15 - 22:30</b>	Discussion and closure<br></li>
+		<li><b>22:35 - 23:15</b>	Hands-on Activity 3<br></li>
+		<li><b>23:15 - 22:30</b>	Discussion and  Closure<br></li>
 	</div>
 <!-- One -->
 <section id="one">
