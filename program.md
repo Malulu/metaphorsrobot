@@ -36,16 +36,35 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Participants</h1>
+			Anastasia Ostrowski
+			Ashby Solano
+			Björn Hein
+			Christoph Salge
+			Cynthia Breazeal
+			David Perry
+			David Puljiz
+			Diego Trujillo-Pisanty
+			Erin Partridge
+			Hae Won Park
+			Jesse Josua Benjamin
+			Jonas Oppenlaender
+			Jörn Hurtienne 
+			Lea Albaugh
+			Mafalda Samuelsson-Gamboa
+			Marcus M. Scheunemann
+			Mattias Arvola
+			Mazdak Shadkam
+			Michael Suguitan
+			Naomi Fitter
+			Oscar Bjurling
+			Paolo Parmiggiani
+			Paulina Yurman
+			Pedro Reynolds-Cuellar
+			Tom Ziemke
+			Sara Ljungblad
+			Selma Šabanović
+			Swapna Joshi
+			Waki Kamino
 		</header>
 	<div class="6u 12u$(small)">
-Coming soon
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-			</div>
 
