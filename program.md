@@ -36,35 +36,35 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Participants</h1>
-			Anastasia Ostrowski
-			Ashby Solano
-			Björn Hein
-			Christoph Salge
-			Cynthia Breazeal
-			David Perry
-			David Puljiz
-			Diego Trujillo-Pisanty
-			Erin Partridge
-			Hae Won Park
-			Jesse Josua Benjamin
-			Jonas Oppenlaender
-			Jörn Hurtienne 
-			Lea Albaugh
-			Mafalda Samuelsson-Gamboa
-			Marcus M. Scheunemann
-			Mattias Arvola
-			Mazdak Shadkam
-			Michael Suguitan
-			Naomi Fitter
-			Oscar Bjurling
-			Paolo Parmiggiani
-			Paulina Yurman
-			Pedro Reynolds-Cuellar
-			Tom Ziemke
-			Sara Ljungblad
-			Selma Šabanović
-			Swapna Joshi
-			Waki Kamino
+			<li>Anastasia Ostrowski</li>
+			<li>Ashby Solano</li>
+			<li>Björn Hein</li>
+			<li>Christoph Salge</li>
+			<li>Cynthia Breazeal</li>
+			<li>David Perry</li>
+			<li>David Puljiz</li>
+			<li>Diego Trujillo-Pisanty</li>
+			<li>Erin Partridge</li>
+			<li>Hae Won Park</li>
+			<li>Jesse Josua Benjamin</li>
+			<li>Jonas Oppenlaender</li>
+			<li>Jörn Hurtienne</li>
+			<li>Lea Albaugh</li>
+			<li>Mafalda Samuelsson-Gamboa</li>
+			<li>Marcus M. Scheunemann</li>
+			<li>Mattias Arvola</li>
+			<li>Mazdak Shadkam</li>
+			<li>Michael Suguitan</li>
+			<li>Naomi Fitter</li>
+			<li>Oscar Bjurling</li>
+			<li>Paolo Parmiggiani</li>
+			<li>Paulina Yurman</li>
+			<li>Pedro Reynolds-Cuellar</li>
+			<li>Tom Ziemke</li>
+			<li>Sara Ljungblad</li>
+			<li>Selma Šabanović</li>
+			<li>Swapna Joshi</li>
+			<li>Waki Kamino</li>
 		</header>
 	<div class="6u 12u$(small)">
 
