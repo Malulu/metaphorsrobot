@@ -1,7 +1,7 @@
 ---
 title: Collection of Metaphors
 layout: landing
-description: 'Coming Soon'
+description: ''
 nav-menu: true
 ---
 
